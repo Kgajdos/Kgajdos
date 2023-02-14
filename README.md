@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kgajdos, I'm currently a college student
 - 👀 I’m interested in game design and software development for science purposes.
-- 🌱 I’m currently learning C#, JavaScript, SQL, I will be learning Java in a few months.
+- 🌱 I’m currently learning C#, JavaScript, SQL, and Java.
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 It would be best to reach out to me here.
 
