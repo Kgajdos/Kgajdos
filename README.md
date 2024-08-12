@@ -24,7 +24,7 @@ Project Sol is an ambitious sci-fi themed Multi-User Dungeon (MUD) set in a vast
 
 ## 👯 I’m looking to collaborate on
 
-- MUDs or PBBGs (Play-by-Browser Games)
+- MUDs or PBBGs
 
 ## 💬 Ask me about
 
