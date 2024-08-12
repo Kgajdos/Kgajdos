@@ -8,6 +8,7 @@ Project Sol is a sci-fi based Multi-User Dungeon (MUD) set in the future. This i
 
 ## 🌱 I’m currently learning
 - Scripting
+- Game development
 - JavaScript
 - C#
 - Python
